@@ -37,4 +37,8 @@ or using custom task:
 
 ## Author
 
-[saltbread1(take)](https://github.com/saltbread1)
+[take(saltbread1)](https://github.com/saltbread1)
+
+## License
+
+[MIT License](https://github.com/saltbread1/ProcessingTemplateForKotlin/blob/main/LICENSE)
