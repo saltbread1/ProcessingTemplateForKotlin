@@ -1,10 +1,10 @@
 # Processing Template for Kotlin
 
-A template of [Processing](https://processing.org/) for Kotlin.
+The template for Kotlin projects using [Processing](https://processing.org/).
 
 ## Libraries
 
-- [Processing 4.3.4](org.processing:core:4.3.4)
+- Processing 4.4.7
 
 ## Usage
 
@@ -20,19 +20,11 @@ cd ProcessingTemplateForKotlin
 ```
 ./gradlew run
 ```
-or using custom task:
-```
-./gradlew runMain
-```
 
 ### Build Main.kt
 
 ```
 ./gradlew shadowJar
-```
-or using custom task:
-```
-./gradlew fatJarMain
 ```
 
 ## Author
