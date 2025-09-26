@@ -21,7 +21,7 @@ cd ProcessingTemplateForKotlin
 ./gradlew run
 ```
 
-### Build Main.kt
+### Make a fat jar of Main.kt
 
 ```
 ./gradlew shadowJar
